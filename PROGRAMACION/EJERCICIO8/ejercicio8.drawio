@@ -1,0 +1,140 @@
+<mxfile host="65bd71144e">
+    <diagram id="s3ntKfULtRN6S9rTQvtN" name="Página-1">
+        <mxGraphModel dx="672" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-3" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-1" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-2" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="INICIO" vertex="1">
+                    <mxGeometry height="80" width="120" x="240" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-5" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-2" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-4" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Candidatos disponibles:  candidato A - partido rojo  candidato B - partido verde   candidato C - partido azul" vertex="1">
+                    <mxGeometry height="60" width="180" x="210" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-7" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-4" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-6" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ingrese su voto ( A, B o C):&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="180" x="210" y="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-9" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-10" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-8" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-13" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-14" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-12" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="VOTO =A" vertex="1">
+                    <mxGeometry height="80" width="110" x="245" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Usted ha votado por el candidato A del partido rojo." vertex="1">
+                    <mxGeometry height="60" width="120" x="430" y="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-11" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-6" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-10" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="355" y="500" as="sourcePoint"/>
+                        <mxPoint x="440" y="500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SI" vertex="1">
+                    <mxGeometry height="30" width="20" x="394" y="485" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-17" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-18" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-16" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-24" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-29" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-23" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="VOTO=B" vertex="1">
+                    <mxGeometry height="80" width="110" x="245" y="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-15" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-6" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-14" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="300" y="540" as="sourcePoint"/>
+                        <mxPoint x="300" y="600" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NO" vertex="1">
+                    <mxGeometry height="30" width="60" x="270" y="555" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-16" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Usted ha votado por el candidato B del partido verde.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="430" y="610" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-22" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-12" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-18" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="355" y="640" as="sourcePoint"/>
+                        <mxPoint x="440" y="640" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SI" vertex="1">
+                    <mxGeometry height="30" width="10" x="390" y="625" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-26" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-27" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-25" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-32" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-23" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-31" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-23" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="VOTO=C" vertex="1">
+                    <mxGeometry height="80" width="110" x="245" y="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-25" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Usted ha votado por el candidato C del partido azul." vertex="1">
+                    <mxGeometry height="60" width="120" x="430" y="770" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-28" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-23" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-27" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="355" y="800" as="sourcePoint"/>
+                        <mxPoint x="440" y="800" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SI" vertex="1">
+                    <mxGeometry height="30" width="20" x="385" y="785" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-30" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-12" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-29" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="300" y="680" as="sourcePoint"/>
+                        <mxPoint x="300" y="760" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NO" vertex="1">
+                    <mxGeometry height="30" width="60" x="270" y="710" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-34" edge="1" parent="1" source="0QUjq1w6NjhPrQgETDvQ-31" style="edgeStyle=none;html=1;" target="0QUjq1w6NjhPrQgETDvQ-33" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-31" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Opcion erronea" vertex="1">
+                    <mxGeometry height="60" width="120" x="240" y="930" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="FIN" vertex="1">
+                    <mxGeometry height="80" width="120" x="240" y="1070" as="geometry"/>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-35" edge="1" parent="1" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="0QUjq1w6NjhPrQgETDvQ-8" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="600" y="1040"/>
+                            <mxPoint x="600" y="500"/>
+                        </Array>
+                        <mxPoint x="300" y="1040" as="sourcePoint"/>
+                        <mxPoint x="650" y="500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-36" edge="1" parent="1" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="540" y="639.5" as="sourcePoint"/>
+                        <mxPoint x="600" y="639.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0QUjq1w6NjhPrQgETDvQ-38" edge="1" parent="1" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="540" y="799.5" as="sourcePoint"/>
+                        <mxPoint x="600" y="799.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
